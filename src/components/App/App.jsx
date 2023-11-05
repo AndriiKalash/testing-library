@@ -3,7 +3,7 @@ import List from '../List';
 import Search from '../Search';
 import './App.css';
 
-const data = ['html', 'css', 'js', 'react', 'TypeScript'];
+const data = ['HTML', 'CSS', 'JavaScript', 'React', 'TypeScript'];
 
 function App() {
   const [search, setSearch] = useState('');
